@@ -1,5 +1,5 @@
-k = ("200").chomp.to_i
-k = gets.chomp.to_i
+k = ("5").chomp.to_i
+# k = gets.chomp.to_i
 
 ans = 0
 
